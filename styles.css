@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* text-align: justify; */
+    vertical-align: top;
+    font-family: arial;
+    /* color: white; */
+   }
+
+#container{
+    background-color: #dddfd4;
+    padding: 10px;
+}
+
+#head{
+    background-color: #38b0ad;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+#sidebar{
+    background-color: #153f43;
+}
+
+#background{
+    background-color: #fbe691;
+    padding: 10px;
+}
